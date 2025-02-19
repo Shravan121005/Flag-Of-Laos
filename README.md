@@ -1,14 +1,15 @@
 # Flag-Of-Laos
-Flag of Laos using CSS & Flexbox
+Flag of Laos using HTML & CSS (Flexbox).
+This project is a digital recreation of the Flag of Laos using HTML and CSS, with Flexbox for layout. The flag features three horizontal stripes with a centered white circle, representing the nation’s unity and independence.
 
-This project showcases the flag of Laos, created purely with HTML and CSS using Flexbox for alignment. It serves as a practice project to improve CSS skills, especially in handling layouts with Flexbox.
+Features ✨
 
-Features
+✔️ Accurate representation of the Laos flag using pure CSS
 
-*Designed with HTML & CSS only
+✔️ Flexbox-based layout for structured design
 
-*Utilizes Flexbox for alignment and positioning
+✔️ Responsive and scalable design
 
-*Fully responsive and scalable
+🔗 Check out the live demo here https://shravan121005.github.io/Flag-Of-Laos/
 
-*Clean and structured code
+Feel free to explore, fork, and modify this project! 🚀
